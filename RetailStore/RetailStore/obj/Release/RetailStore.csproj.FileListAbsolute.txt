@@ -1,0 +1,8 @@
+C:\Users\windowsadmin\Desktop\RetailStore\RetailStore\bin\Release\Bill_Details.txt
+C:\Users\windowsadmin\Desktop\RetailStore\RetailStore\bin\Release\Customer_Details.txt
+C:\Users\windowsadmin\Desktop\RetailStore\RetailStore\bin\Release\RetailStore.exe.config
+C:\Users\windowsadmin\Desktop\RetailStore\RetailStore\bin\Release\RetailStore.exe
+C:\Users\windowsadmin\Desktop\RetailStore\RetailStore\bin\Release\RetailStore.pdb
+C:\Users\windowsadmin\Desktop\RetailStore\RetailStore\obj\Release\RetailStore.csproj.CoreCompileInputs.cache
+C:\Users\windowsadmin\Desktop\RetailStore\RetailStore\obj\Release\RetailStore.exe
+C:\Users\windowsadmin\Desktop\RetailStore\RetailStore\obj\Release\RetailStore.pdb

@@ -1,0 +1,14 @@
+#Format
+	Bill Number
+	CustomerID as defined in customer database file Customer_Details.txt	
+	Bill Date(DD MM YYYY)
+	Total Cost
+	Grocery Cost
+#Format
+##################### Input
+BillNo:1
+CustomerID:1
+19 9 2018
+2200
+200
+

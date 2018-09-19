@@ -1,0 +1,28 @@
+#Start Format
+	CustomerId
+	CustomerName
+	Customer joining date
+	Status: 0/1/2(Employee/Affiliate/Normal User)
+#End FormAT
+############################
+#Start Customer Data
+########################Employee
+CustomerID:1
+Name1
+22 8 2012
+0
+########################Affiliate
+CustomerID:2
+Name2
+10 6 2017
+1
+#######################Normal customer with 2+yrs of loyalty
+CustomerID:3
+Name1
+22 3 2015
+2
+#####################Normal User with <2 yrs of loyalty
+CustomerID:4
+Name2
+1 5 2017
+2
